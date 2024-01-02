@@ -33,7 +33,7 @@ The initial dataset contained several missing values and discrepancies. Data cle
 1.	Department-wise attrition rates
     - The Finance department has the highest attrition rate at 53.57%, followed by IT at 35.29%.
     - The Sales department has the lowest attrition rate at 20.83%.
-    
+    ![empower hr 1](https://github.com/kalpesh-projects/Empower-HR/assets/66734625/f60a82d3-222a-4aa1-9338-0a65fcf98e38)
 
 2.	Position-wise attrition rates
     - The positions with the highest attrition rates are Financial Manager (85.71%) and Marketing Manager (54.55%). Immediate attention is needed to understand why these roles are experiencing such high attrition.
